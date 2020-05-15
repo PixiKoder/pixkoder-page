@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pixikoder-page"
+    }
+  },
+  "defaultProject": "pixikoder-page",
+  "cli": {
+    "analytics": "64f14cf9-4090-4744-96c7-ae0d990aa5a4"
+  }
 }
